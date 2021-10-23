@@ -1,4 +1,4 @@
-## Welcome to Vicky's Github.
+## Welcome to Vicky's Github
  <div>
   <a href="https://github.com/Yurio-v">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yurio-v&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
